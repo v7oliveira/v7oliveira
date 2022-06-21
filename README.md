@@ -1,5 +1,10 @@
 ### Olá! Eu sou o Vinicius Oliveira ⚙️🖥️
 
+Engenheiro mecânico com uma paixão por tecnologia.
+
+Neste perfil você encontrará de projetos mecânicos até ciência de dados!
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v96_projetos/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engenheirovini/)
 
