@@ -15,17 +15,13 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-    <img align="center" alt="html5" src=""/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <img align="center" alt="html5" src=""/>
 </div>
 
-
-Aqui você encontrará de modelagem 3D até análise dados!
 
 
 ### Contato:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) v7oliveira@gmail.com
 
-![Snake animation](https://github.com/v7oliveira/blob/output/github-contribution-grid-snake.svg)
+
