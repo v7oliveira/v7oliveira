@@ -2,7 +2,7 @@
 
 Engenheiro mecânico com uma paixão por tecnologia.
 
-Neste perfil você encontrará de projetos mecânicos até ciência de dados!
+Aqui você encontrará de modelagem 3D até ciência de dados!
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v96_projetos/)
