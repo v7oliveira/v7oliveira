@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vinicius Oliveira ⚙️🖥️
+### Olá! Me chamo Vinicius Oliveira ⚙️🖥️
 
 Engenheiro mecânico com uma paixão por tecnologia.
 
@@ -18,9 +18,8 @@ Aqui você encontrará de modelagem 3D até ciência de dados!
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    <img align="center" alt="html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
 </div>
 
 
